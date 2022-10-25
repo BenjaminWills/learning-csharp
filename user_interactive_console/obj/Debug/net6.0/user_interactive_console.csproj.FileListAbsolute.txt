@@ -1,0 +1,15 @@
+/Users/benwills/Desktop/learning-csharp/user_interactive_console/bin/Debug/net6.0/user_interactive_console
+/Users/benwills/Desktop/learning-csharp/user_interactive_console/bin/Debug/net6.0/user_interactive_console.deps.json
+/Users/benwills/Desktop/learning-csharp/user_interactive_console/bin/Debug/net6.0/user_interactive_console.runtimeconfig.json
+/Users/benwills/Desktop/learning-csharp/user_interactive_console/bin/Debug/net6.0/user_interactive_console.dll
+/Users/benwills/Desktop/learning-csharp/user_interactive_console/bin/Debug/net6.0/user_interactive_console.pdb
+/Users/benwills/Desktop/learning-csharp/user_interactive_console/obj/Debug/net6.0/user_interactive_console.csproj.AssemblyReference.cache
+/Users/benwills/Desktop/learning-csharp/user_interactive_console/obj/Debug/net6.0/user_interactive_console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benwills/Desktop/learning-csharp/user_interactive_console/obj/Debug/net6.0/user_interactive_console.AssemblyInfoInputs.cache
+/Users/benwills/Desktop/learning-csharp/user_interactive_console/obj/Debug/net6.0/user_interactive_console.AssemblyInfo.cs
+/Users/benwills/Desktop/learning-csharp/user_interactive_console/obj/Debug/net6.0/user_interactive_console.csproj.CoreCompileInputs.cache
+/Users/benwills/Desktop/learning-csharp/user_interactive_console/obj/Debug/net6.0/user_interactive_console.dll
+/Users/benwills/Desktop/learning-csharp/user_interactive_console/obj/Debug/net6.0/refint/user_interactive_console.dll
+/Users/benwills/Desktop/learning-csharp/user_interactive_console/obj/Debug/net6.0/user_interactive_console.pdb
+/Users/benwills/Desktop/learning-csharp/user_interactive_console/obj/Debug/net6.0/user_interactive_console.genruntimeconfig.cache
+/Users/benwills/Desktop/learning-csharp/user_interactive_console/obj/Debug/net6.0/ref/user_interactive_console.dll
