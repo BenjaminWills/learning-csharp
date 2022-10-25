@@ -196,15 +196,15 @@ a = 2 and b = 2
 
 ### Logical Operators
 
-| Operation | Operator |
-| --------- | -------- | --- | --- |
-| and       | &&       |
-| or        | `        |     | `   |
-| not       | !        |
+| Operation | Operator           |
+| --------- | ------------------ |
+| and       | &&                 |
+| or        | two vertical lines |
+| not       | !                  |
 
 ### Bitwise Operators
 
-| Operation | Operator |
-| --------- | -------- | --- | --- |
-| and       | &        |
-| or        | `        |     | `   |
+| Operation | Operator          |
+| --------- | ----------------- |
+| and       | &                 |
+| or        | one vertical line |
