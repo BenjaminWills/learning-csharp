@@ -130,3 +130,81 @@ catch(Exception)
     code
 }
 ```
+
+## Operators
+
+There are 5 types of operators in c#:
+
+- Arithmetic
+- Comparison
+- Assignment
+- Logical
+- Bitwise
+
+### Arithmetic Operators
+
+These are operators like add (+), subtract (-), multiply (\*), divide (/), remainder (%), increment (++) and decrement (--).
+
+| Operation | Operator |
+| --------- | -------- |
+| add       | +        |
+| subtract  | -        |
+| multiply  | \*       |
+| divide    | /        |
+| remainder | %        |
+| increment | ++       |
+| decrement | --       |
+
+The increment operators can be used in 2 ways:
+
+```sh
+int a = 1;
+int b = a++;
+```
+
+In this case a = 2 and b = 1
+
+However in this block
+
+```sh
+int a = 1;
+int b = ++a
+```
+
+a = 2 and b = 2
+
+### Comparison Operators
+
+| Operation                | Operator |
+| ------------------------ | -------- |
+| equal                    | ==       |
+| not equal                | !=       |
+| greater than             | >        |
+| greater than or equal to | >=       |
+| less than                | <        |
+| less than or equal to    | <=>      |
+
+### Assignment Operators
+
+| Operation                 | Operator |
+| ------------------------- | -------- |
+| assignment                | =        |
+| addition assignment       | +=       |
+| subtraction assignment    | -=       |
+| multiplication assignment | \*=      |
+| division assignment       | \=       |
+
+### Logical Operators
+
+| Operation | Operator |
+| --------- | -------- | --- | --- |
+| and       | &&       |
+| or        | `        |     | `   |
+| not       | !        |
+
+### Bitwise Operators
+
+| Operation | Operator |
+| --------- | -------- | --- | --- |
+| and       | &        |
+| or        | `        |     | `   |
