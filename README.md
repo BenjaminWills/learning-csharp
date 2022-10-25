@@ -68,3 +68,16 @@ char character = 'B';
 string first_name = "Ben";
 bool im_hungry = true;
 ```
+
+Conveniently we can actually use the `var` keyword to allow C# to infer the datatype. so the above becomes:
+
+```sh
+var number = 2;
+var count = 10;
+var floating_point = 18.2f;
+var character = 'B';
+var first_name = "Ben";
+var im_hungry = true;
+```
+
+However do be warned that var will never assign a byte, only an integer.
