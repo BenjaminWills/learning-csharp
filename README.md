@@ -208,3 +208,7 @@ a = 2 and b = 2
 | --------- | ----------------- |
 | and       | &                 |
 | or        | one vertical line |
+
+## Comments
+
+In c# A `single line` comment is denoted with `\\` and a `multi line comment` is denoted with `/* comment */`
