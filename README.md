@@ -8,7 +8,7 @@ In this repository I will be documenting my learning of `C#`.
 csharp_example.cs
 ```
 
-`C#` is an `object oriented` language. To run the files we need to use an extension called `dotnet`. To create the file we need to write the following command in zsh:
+`C#` is an `object oriented` language. To run the files we need to use an extension called `dotnet` (https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet). To create the file we need to write the following command in zsh:
 
 ```sh
 dotnet new {application type} -o {application name}
