@@ -1,0 +1,15 @@
+/Users/benwills/Desktop/learning-csharp/first_console/bin/Debug/net6.0/first_console
+/Users/benwills/Desktop/learning-csharp/first_console/bin/Debug/net6.0/first_console.deps.json
+/Users/benwills/Desktop/learning-csharp/first_console/bin/Debug/net6.0/first_console.runtimeconfig.json
+/Users/benwills/Desktop/learning-csharp/first_console/bin/Debug/net6.0/first_console.dll
+/Users/benwills/Desktop/learning-csharp/first_console/bin/Debug/net6.0/first_console.pdb
+/Users/benwills/Desktop/learning-csharp/first_console/obj/Debug/net6.0/first_console.csproj.AssemblyReference.cache
+/Users/benwills/Desktop/learning-csharp/first_console/obj/Debug/net6.0/first_console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benwills/Desktop/learning-csharp/first_console/obj/Debug/net6.0/first_console.AssemblyInfoInputs.cache
+/Users/benwills/Desktop/learning-csharp/first_console/obj/Debug/net6.0/first_console.AssemblyInfo.cs
+/Users/benwills/Desktop/learning-csharp/first_console/obj/Debug/net6.0/first_console.csproj.CoreCompileInputs.cache
+/Users/benwills/Desktop/learning-csharp/first_console/obj/Debug/net6.0/first_console.dll
+/Users/benwills/Desktop/learning-csharp/first_console/obj/Debug/net6.0/refint/first_console.dll
+/Users/benwills/Desktop/learning-csharp/first_console/obj/Debug/net6.0/first_console.pdb
+/Users/benwills/Desktop/learning-csharp/first_console/obj/Debug/net6.0/first_console.genruntimeconfig.cache
+/Users/benwills/Desktop/learning-csharp/first_console/obj/Debug/net6.0/ref/first_console.dll
