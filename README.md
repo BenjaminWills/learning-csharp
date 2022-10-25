@@ -115,3 +115,18 @@ So for example:
 Console.WriteLine("{0} {1}",byte.MinValue,byte.MaxValue);
 --> 0 255
 ```
+
+## Error Handling
+
+We can use `try` `catch` blocks to handle errors that would otherwise crash the program.
+
+```sh
+try
+{
+    code
+}
+catch(Exception)
+{
+    code
+}
+```
