@@ -48,11 +48,23 @@ Then redirect to `bin/debug/net6.0` and re run the code.
 
 ## Data Types
 
-| Type   | Description                               |
-| ------ | ----------------------------------------- |
-| bool   | True/False                                |
-| byte   | any 8 bit integer ($0 \lt int \leq 255$)  |
-| sbyte  | signed byte ($-128 \leq int \leq 127$)    |
-| char   | character                                 |
-| float  | floating point number                     |
-| double | more precise than a floating point number |
+| Type   | Description                                     |
+| ------ | ----------------------------------------------- |
+| bool   | true/false                                      |
+| byte   | any 8 bit integer ($0 \lt int \leq 255$)        |
+| sbyte  | signed byte ($-128 \leq int \leq 127$)          |
+| char   | character defined using single quotes           |
+| string | string defined using double quotes              |
+| float  | floating point number, must end in f e.g 23.23f |
+| double | more precise than a floating point number       |
+
+examples of assignment:
+
+```sh
+byte number = 2;
+int count = 10;
+float floating_point = 18.2f;
+char character = 'B';
+string first_name = "Ben";
+bool im_hungry = true;
+```
