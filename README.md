@@ -1,5 +1,7 @@
 # Learning C#
 
+## Getting Set Up
+
 In this repository I will be documenting my learning of `C#`.
 
 `C#` Files have the suffix .cs
@@ -43,3 +45,14 @@ dotnet build {directory_name}
 ```
 
 Then redirect to `bin/debug/net6.0` and re run the code.
+
+## Data Types
+
+| Type   | Description                               |
+| ------ | ----------------------------------------- |
+| bool   | True/False                                |
+| byte   | any 8 bit integer ($0 \lt int \leq 255$)  |
+| sbyte  | signed byte ($-128 \leq int \leq 127$)    |
+| char   | character                                 |
+| float  | floating point number                     |
+| double | more precise than a floating point number |
