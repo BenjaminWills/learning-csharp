@@ -81,3 +81,18 @@ var im_hungry = true;
 ```
 
 However do be warned that var will never assign a byte, only an integer.
+
+## Formatting strings
+
+Say we want to format a string to print to the console. We can write
+
+```sh
+Console.WriteLine("{0} {1}",placeholder_0_filler,placeholder_1_filler)
+```
+
+So for example:
+
+```sh
+Console.WriteLine("{0} {1}",byte.MinValue,byte.MaxValue)
+--> 0 255
+```
