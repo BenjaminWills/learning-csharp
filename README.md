@@ -30,8 +30,16 @@ namespace HelloWorld
 }
 ```
 
-To run this program from your terminal, navigate to the bin/debug/net6.0 directory and execute the following command:
+To run this program from your terminal, navigate to the `bin/debug/net6.0` directory and execute the following command:
 
 ```sh
 dotnet {application name}.dll {arguments specified}
 ```
+
+Be sure to rebuild your application each time you make a change to it by using the following command at the top level of the directory:
+
+```sh
+dotnet build {directory_name}
+```
+
+Then redirect to `bin/debug/net6.0` and re run the code.
