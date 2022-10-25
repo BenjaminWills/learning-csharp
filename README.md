@@ -33,5 +33,5 @@ namespace HelloWorld
 To run this program from your terminal, navigate to the bin/debug/net6.0 directory and execute the following command:
 
 ```sh
-dotnet first_console.dll {arguments specified}
+dotnet {application name}.dll {arguments specified}
 ```
