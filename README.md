@@ -82,17 +82,36 @@ var im_hungry = true;
 
 However do be warned that var will never assign a byte, only an integer.
 
+To `convert` one variable type to another we write:
+
+```sh
+float f = 1.0f;
+int i = (int)f;
+```
+
+One must be careful though as if you convert from a larger type to a smaller type information will be lost. This process is called `casting`.
+
+We can use `Convert` to convert non compatible data types, such as strings to integers.
+
+```sh
+string s = "1";
+
+int i = Convert.ToInt32(s);
+OR
+int j = int.Parse(s);
+```
+
 ## Formatting strings
 
 Say we want to format a string to print to the console. We can write
 
 ```sh
-Console.WriteLine("{0} {1}",placeholder_0_filler,placeholder_1_filler)
+Console.WriteLine("{0} {1}",placeholder_0_filler,placeholder_1_filler);
 ```
 
 So for example:
 
 ```sh
-Console.WriteLine("{0} {1}",byte.MinValue,byte.MaxValue)
+Console.WriteLine("{0} {1}",byte.MinValue,byte.MaxValue);
 --> 0 255
 ```
