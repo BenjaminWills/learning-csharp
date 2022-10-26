@@ -150,8 +150,6 @@ There are 5 types of operators in c#:
 
 ### Arithmetic Operators
 
-These are operators like add (+), subtract (-), multiply (\*), divide (/), remainder (%), increment (++) and decrement (--).
-
 | Operation | Operator |
 | --------- | -------- |
 | add       | +        |
